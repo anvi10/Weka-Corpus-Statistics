@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.lemurproject.galago.core.tools.apps.StatsFnTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.222 sec

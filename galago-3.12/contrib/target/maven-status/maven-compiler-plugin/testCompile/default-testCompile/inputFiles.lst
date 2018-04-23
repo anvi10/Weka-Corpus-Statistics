@@ -1,0 +1,12 @@
+/u/data/u87/arayabha/galago-3.12/contrib/src/test/java/org/lemurproject/galago/contrib/index/disk/ForwardIndexWriterTest.java
+/u/data/u87/arayabha/galago-3.12/contrib/src/test/java/org/lemurproject/galago/contrib/tools/BuildSketchIndexTest.java
+/u/data/u87/arayabha/galago-3.12/contrib/src/test/java/org/lemurproject/galago/contrib/tools/BuildBackgroundTest.java
+/u/data/u87/arayabha/galago-3.12/contrib/src/test/java/org/lemurproject/galago/contrib/tools/AppTest.java
+/u/data/u87/arayabha/galago-3.12/contrib/src/test/java/org/lemurproject/galago/contrib/learning/CoordinateAscentLearnerTest.java
+/u/data/u87/arayabha/galago-3.12/contrib/src/test/java/org/lemurproject/galago/contrib/tools/BuildFilteredCollectionTest.java
+/u/data/u87/arayabha/galago-3.12/contrib/src/test/java/org/lemurproject/galago/contrib/util/TestingUtils.java
+/u/data/u87/arayabha/galago-3.12/contrib/src/test/java/org/lemurproject/galago/contrib/tools/GenerateWorkingSetQueriesTest.java
+/u/data/u87/arayabha/galago-3.12/contrib/src/test/java/org/lemurproject/galago/contrib/tools/BuildSpecialCollBackgroundTest.java
+/u/data/u87/arayabha/galago-3.12/contrib/src/test/java/org/lemurproject/galago/contrib/learning/LearnerTest.java
+/u/data/u87/arayabha/galago-3.12/contrib/src/test/java/org/lemurproject/galago/contrib/learning/GridSearchLearnerTest.java
+/u/data/u87/arayabha/galago-3.12/contrib/src/test/java/org/lemurproject/galago/contrib/learning/XFoldLearnerTest.java

@@ -1,0 +1,28 @@
+#surefire
+#Thu Sep 21 18:11:22 EDT 2017
+testClassesDirectory=/u/data/u87/arayabha/galago-3.12/krovetz-stemmer/target/test-classes
+classPathUrl.3=/homes/arayabha/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar
+classPathUrl.2=/homes/arayabha/.m2/repository/junit/junit/4.11/junit-4.11.jar
+useManifestOnlyJar=true
+classPathUrl.1=/u/data/u87/arayabha/galago-3.12/krovetz-stemmer/target/classes
+reportsDirectory=/u/data/u87/arayabha/galago-3.12/krovetz-stemmer/target/surefire-reports
+classPathUrl.0=/u/data/u87/arayabha/galago-3.12/krovetz-stemmer/target/test-classes
+dirscanner.0=directoryScannerOptions
+providerConfiguration=org.apache.maven.surefire.junit4.JUnit4Provider
+testSuiteDefinitionTestSourceDirectory=/u/data/u87/arayabha/galago-3.12/krovetz-stemmer/src/test/java
+surefireClassPathUrl.1=/homes/arayabha/.m2/repository/org/apache/maven/surefire/surefire-api/2.7.1/surefire-api-2.7.1.jar
+surefireClassPathUrl.0=/homes/arayabha/.m2/repository/org/apache/maven/surefire/surefire-junit4/2.7.1/surefire-junit4-2.7.1.jar
+report.2=org.apache.maven.surefire.report.XMLReporter
+useSystemClassLoader=true
+report.1=org.apache.maven.surefire.report.BriefFileReporter
+report.0=org.apache.maven.surefire.report.ForkingConsoleReporter
+excludes0=**/*$*
+isTrimStackTrace=true
+dirscanner.0.params=/u/data/u87/arayabha/galago-3.12/krovetz-stemmer/target/test-classes|[**/Test*.java, **/*Test.java, **/*TestCase.java]|[**/*$*]
+enableAssertions=true
+includes2=**/*TestCase.java
+failIfNoTests=false
+includes1=**/*Test.java
+dirscanner.0.types=java.io.File|java.util.ArrayList|java.util.ArrayList
+includes0=**/Test*.java
+childDelegation=false

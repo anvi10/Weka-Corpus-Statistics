@@ -1,0 +1,16 @@
+org/lemurproject/galago/tupleflow/typebuilder/TemplateTypeBuilder$OrderSpec$FieldPair.class
+org/lemurproject/galago/tupleflow/typebuilder/GalagoTypeBuilderParser.class
+org/lemurproject/galago/tupleflow/typebuilder/Direction.class
+org/lemurproject/galago/tupleflow/typebuilder/TemplateTypeBuilder$OrderedField.class
+org/lemurproject/galago/tupleflow/typebuilder/TypeBuilderMojo.class
+org/lemurproject/galago/tupleflow/typebuilder/GalagoTypeBuilderLexer.class
+org/lemurproject/galago/tupleflow/typebuilder/TypeSpecification.class
+org/lemurproject/galago/tupleflow/typebuilder/GalagoTypeBuilderParser$package_name_return.class
+org/lemurproject/galago/tupleflow/typebuilder/OrderedFieldSpecification.class
+org/lemurproject/galago/tupleflow/typebuilder/TemplateTypeBuilder.class
+org/lemurproject/galago/tupleflow/typebuilder/FieldSpecification.class
+org/lemurproject/galago/tupleflow/typebuilder/FieldSpecification$DataType.class
+org/lemurproject/galago/tupleflow/typebuilder/TemplateTypeBuilder$Field.class
+org/lemurproject/galago/tupleflow/typebuilder/ParserDriver.class
+org/lemurproject/galago/tupleflow/typebuilder/TemplateTypeBuilder$OrderSpec.class
+org/lemurproject/galago/tupleflow/typebuilder/OrderSpecification.class

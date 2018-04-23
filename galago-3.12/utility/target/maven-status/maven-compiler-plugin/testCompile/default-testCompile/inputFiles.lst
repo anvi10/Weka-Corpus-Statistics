@@ -1,0 +1,10 @@
+/u/data/u87/arayabha/galago-3.12/utility/src/test/java/org/lemurproject/galago/utility/compare/NaturalOrderComparatorTest.java
+/u/data/u87/arayabha/galago-3.12/utility/src/test/java/org/lemurproject/galago/utility/lists/ScoredTest.java
+/u/data/u87/arayabha/galago-3.12/utility/src/test/java/org/lemurproject/galago/utility/ZipUtilTest.java
+/u/data/u87/arayabha/galago-3.12/utility/src/test/java/org/lemurproject/galago/utility/buffer/BufferedFileDataStreamTest.java
+/u/data/u87/arayabha/galago-3.12/utility/src/test/java/org/lemurproject/galago/utility/MathUtilsTest.java
+/u/data/u87/arayabha/galago-3.12/utility/src/test/java/org/lemurproject/galago/utility/CmpUtilTest.java
+/u/data/u87/arayabha/galago-3.12/utility/src/test/java/org/lemurproject/galago/utility/buffer/CompressedByteBufferTest.java
+/u/data/u87/arayabha/galago-3.12/utility/src/test/java/org/lemurproject/galago/utility/tools/ArgumentsTest.java
+/u/data/u87/arayabha/galago-3.12/utility/src/test/java/org/lemurproject/galago/utility/ParametersTest.java
+/u/data/u87/arayabha/galago-3.12/utility/src/test/java/org/lemurproject/galago/utility/json/JSONUtilTest.java

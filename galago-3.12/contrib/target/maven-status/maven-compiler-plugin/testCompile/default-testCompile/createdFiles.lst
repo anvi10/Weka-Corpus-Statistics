@@ -1,0 +1,12 @@
+org/lemurproject/galago/contrib/index/disk/ForwardIndexWriterTest.class
+org/lemurproject/galago/contrib/tools/BuildFilteredCollectionTest.class
+org/lemurproject/galago/contrib/tools/BuildSpecialCollBackgroundTest.class
+org/lemurproject/galago/contrib/learning/LearnerTest.class
+org/lemurproject/galago/contrib/tools/AppTest.class
+org/lemurproject/galago/contrib/learning/XFoldLearnerTest.class
+org/lemurproject/galago/contrib/tools/BuildSketchIndexTest.class
+org/lemurproject/galago/contrib/util/TestingUtils.class
+org/lemurproject/galago/contrib/tools/GenerateWorkingSetQueriesTest.class
+org/lemurproject/galago/contrib/tools/BuildBackgroundTest.class
+org/lemurproject/galago/contrib/learning/GridSearchLearnerTest.class
+org/lemurproject/galago/contrib/learning/CoordinateAscentLearnerTest.class

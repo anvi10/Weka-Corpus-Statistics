@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.lemurproject.galago.tupleflow.execution.ConnectionTest
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.455 sec

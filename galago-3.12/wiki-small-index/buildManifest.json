@@ -1,0 +1,42 @@
+{
+  "corpus" : true,
+  "corpusParameters" : {
+    "blockSize" : 512,
+    "filename" : "/u/data/u87/arayabha/galago-3.12/wiki-small-index/corpus",
+    "mergerClass" : "org.lemurproject.galago.core.index.merge.CorpusMerger",
+    "readerClass" : "org.lemurproject.galago.core.index.corpus.CorpusReader",
+    "tokenizer" : {
+      "fields" : [ ],
+      "formats" : {
+
+      }
+    },
+    "writerClass" : "org.lemurproject.galago.core.index.corpus.CorpusFolderWriter"
+  },
+  "fieldIndex" : false,
+  "fieldIndexParameters" : {
+    "nonStemmedPostings" : true,
+    "stemmedPostings" : false
+  },
+  "galagoVersion" : "3.12",
+  "galagoVersionBuildDateTime" : "2017-09-21 18:11",
+  "indexBuildDateTime" : "2017-09-23 18:49",
+  "indexPath" : "/u/data/u87/arayabha/galago-3.12/wiki-small-index",
+  "inputPath" : [ "/u/data/u87/arayabha/galago-3.12/../en"],
+  "nonStemmedPosting" : true,
+  "nonStemmedPostings" : true,
+  "rmstopwords" : false,
+  "skipDistance" : 500,
+  "skipping" : true,
+  "stemmedCounts" : false,
+  "stemmedPostings" : false,
+  "stemmerClass" : {
+
+  },
+  "tokenizer" : {
+    "fields" : [ ],
+    "formats" : {
+
+    }
+  }
+}

@@ -1,0 +1,11 @@
+org/lemurproject/galago/utility/tools/ArgumentsTest.class
+org/lemurproject/galago/utility/buffer/BufferedFileDataStreamTest.class
+org/lemurproject/galago/utility/json/JSONUtilTest.class
+org/lemurproject/galago/utility/compare/NaturalOrderComparatorTest.class
+org/lemurproject/galago/utility/MathUtilsTest.class
+org/lemurproject/galago/utility/CmpUtilTest.class
+org/lemurproject/galago/utility/lists/ScoredTest.class
+org/lemurproject/galago/utility/lists/ScoredTest$ScoredTerm.class
+org/lemurproject/galago/utility/ZipUtilTest.class
+org/lemurproject/galago/utility/buffer/CompressedByteBufferTest.class
+org/lemurproject/galago/utility/ParametersTest.class

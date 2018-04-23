@@ -1,0 +1,13 @@
+/u/data/u87/arayabha/galago-3.12/tupleflow/src/test/java/org/lemurproject/galago/tupleflow/execution/JobTest.java
+/u/data/u87/arayabha/galago-3.12/tupleflow/src/test/java/org/lemurproject/galago/tupleflow/OrderedCombinerTest.java
+/u/data/u87/arayabha/galago-3.12/tupleflow/src/test/java/org/lemurproject/galago/tupleflow/VByteInputTest.java
+/u/data/u87/arayabha/galago-3.12/tupleflow/src/test/java/org/lemurproject/galago/tupleflow/execution/ConnectionTest.java
+/u/data/u87/arayabha/galago-3.12/tupleflow/src/test/java/org/lemurproject/galago/tupleflow/LinkageTest.java
+/u/data/u87/arayabha/galago-3.12/tupleflow/src/test/java/org/lemurproject/galago/tupleflow/TextWriterTest.java
+/u/data/u87/arayabha/galago-3.12/tupleflow/src/test/java/org/lemurproject/galago/tupleflow/UtilityTest.java
+/u/data/u87/arayabha/galago-3.12/tupleflow/src/test/java/org/lemurproject/galago/tupleflow/execution/MultiConnectionTest.java
+/u/data/u87/arayabha/galago-3.12/tupleflow/src/test/java/org/lemurproject/galago/tupleflow/CompressionTest.java
+/u/data/u87/arayabha/galago-3.12/tupleflow/src/test/java/org/lemurproject/galago/tupleflow/execution/NetworkedCounterTest.java
+/u/data/u87/arayabha/galago-3.12/tupleflow/src/test/java/org/lemurproject/galago/tupleflow/VByteOutputTest.java
+/u/data/u87/arayabha/galago-3.12/tupleflow/src/test/java/org/lemurproject/galago/tupleflow/FakeType.java
+/u/data/u87/arayabha/galago-3.12/tupleflow/src/test/java/org/lemurproject/galago/tupleflow/SorterTest.java

@@ -1,0 +1,8 @@
+4 Q0 /u/data/u87/arayabha/galago-3.12/../en/articles/l/e/a/Learning_Resource_Centers_0967.html 1 -7.67201313 galago
+4 Q0 /u/data/u87/arayabha/galago-3.12/../en/articles/c/l/a/Class_(computer_science).html 2 -7.67696150 galago
+7 Q0 /u/data/u87/arayabha/galago-3.12/../en/articles/c/a/s/Case-based_reasoning.html 1 -7.79021455 galago
+7 Q0 /u/data/u87/arayabha/galago-3.12/../en/articles/v/i/v/Vivaldi_coordinates.html 2 -7.88169659 galago
+16 Q0 /u/data/u87/arayabha/galago-3.12/../en/articles/l/y/n/LynxOS_dd39.html 1 -6.87549692 galago
+16 Q0 /u/data/u87/arayabha/galago-3.12/../en/articles/b/r/l/BRL-CAD_2b85.html 2 -6.90614334 galago
+18 Q0 /u/data/u87/arayabha/galago-3.12/../en/articles/l/a/w/Lawn_aerator.html 1 -8.56768795 galago
+18 Q0 /u/data/u87/arayabha/galago-3.12/../en/articles/b/r/l/BRL-CAD_2b85.html 2 -8.71017402 galago

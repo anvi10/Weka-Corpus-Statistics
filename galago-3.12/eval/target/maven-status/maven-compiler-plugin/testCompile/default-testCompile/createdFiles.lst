@@ -1,0 +1,6 @@
+org/lemurproject/galago/core/eval/AveragePrecisionTest.class
+org/lemurproject/galago/core/eval/PrecisionTest.class
+org/lemurproject/galago/core/eval/RecallTest.class
+org/lemurproject/galago/core/eval/RPrecisionTest.class
+org/lemurproject/galago/core/eval/QrelTest.class
+org/lemurproject/galago/core/eval/QuerySetResultsTest.class

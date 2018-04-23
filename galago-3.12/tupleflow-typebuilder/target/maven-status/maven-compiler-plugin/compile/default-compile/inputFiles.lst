@@ -1,0 +1,10 @@
+/u/data/u87/arayabha/galago-3.12/tupleflow-typebuilder/target/generated-sources/antlr/org/lemurproject/galago/tupleflow/typebuilder/GalagoTypeBuilderParser.java
+/u/data/u87/arayabha/galago-3.12/tupleflow-typebuilder/src/main/java/org/lemurproject/galago/tupleflow/typebuilder/ParserDriver.java
+/u/data/u87/arayabha/galago-3.12/tupleflow-typebuilder/target/generated-sources/antlr/org/lemurproject/galago/tupleflow/typebuilder/GalagoTypeBuilderLexer.java
+/u/data/u87/arayabha/galago-3.12/tupleflow-typebuilder/src/main/java/org/lemurproject/galago/tupleflow/typebuilder/Direction.java
+/u/data/u87/arayabha/galago-3.12/tupleflow-typebuilder/src/main/java/org/lemurproject/galago/tupleflow/typebuilder/TemplateTypeBuilder.java
+/u/data/u87/arayabha/galago-3.12/tupleflow-typebuilder/src/main/java/org/lemurproject/galago/tupleflow/typebuilder/FieldSpecification.java
+/u/data/u87/arayabha/galago-3.12/tupleflow-typebuilder/src/main/java/org/lemurproject/galago/tupleflow/typebuilder/OrderSpecification.java
+/u/data/u87/arayabha/galago-3.12/tupleflow-typebuilder/src/main/java/org/lemurproject/galago/tupleflow/typebuilder/OrderedFieldSpecification.java
+/u/data/u87/arayabha/galago-3.12/tupleflow-typebuilder/src/main/java/org/lemurproject/galago/tupleflow/typebuilder/TypeBuilderMojo.java
+/u/data/u87/arayabha/galago-3.12/tupleflow-typebuilder/src/main/java/org/lemurproject/galago/tupleflow/typebuilder/TypeSpecification.java
